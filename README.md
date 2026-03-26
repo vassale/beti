@@ -6,13 +6,13 @@
 
 <div align="center">
   <a href="https://www.npmjs.com/package/@virastack/input-mask">
-    <img src="https://img.shields.io/npm/v/@virastack/input-mask?style=flat-square&color=black" alt="npm version" />
+    <img src="https://img.shields.io/npm/v/@virastack/input-mask" alt="npm version" />
   </a>
   <a href="https://www.npmjs.com/package/@virastack/input-mask">
-    <img src="https://img.shields.io/npm/dt/@virastack/input-mask?style=flat-square&color=black" alt="npm downloads" />
+    <img src="https://img.shields.io/npm/dt/@virastack/input-mask" alt="npm downloads" />
   </a>
   <a href="https://bundlephobia.com/package/@virastack/input-mask">
-    <img src="https://img.shields.io/bundlephobia/minzip/@virastack/input-mask?style=flat-square&color=black" alt="bundle size" />
+    <img src="https://img.shields.io/bundlephobia/minzip/@virastack/input-mask" alt="bundle size" />
   </a>
 </div>
 
