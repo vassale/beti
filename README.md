@@ -27,7 +27,7 @@ The lightweight standard for input formatting and state synchronization in React
 - 🛡️ **Type-Safe:** Built with TypeScript for an excellent developer experience.
 - 🧠 **Smart Presets:** Built-in masks for credit cards, phones, currency, and more.
 
-### [Read the docs →](https://virastack.com/mask)
+### [Read the docs →](https://virastack.com/input-mask/)
 
 ## Quick Start
 
